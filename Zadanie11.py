@@ -1,3 +1,5 @@
+import math
+
 try:
     a = float(input("Podaj a: "))
     b = float(input("Podaj b: "))
